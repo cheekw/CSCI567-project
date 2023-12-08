@@ -1,5 +1,7 @@
 # CSCI 567 Final Project
 
+The copy of the final report is uploaded as 'CSCI567-project-report.pdf' <br>
+
 To reproduce the results and run the code, this project first requires purchasing Google Colab Pro+ to run due to the computational cost it takes to train the models.
 
 1. Download LibriSpeech-dev-clean and UrbanSound8k fold1 <br>
